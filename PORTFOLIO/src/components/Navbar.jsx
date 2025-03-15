@@ -4,7 +4,7 @@ const Navbar = () => {
     return(
         <div className="head">
             <div className="icon">
-                <p>check!</p>
+                <p>a!</p>
             </div>
             <div className="rest">
                 <div className="home">

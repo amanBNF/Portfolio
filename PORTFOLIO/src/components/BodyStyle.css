@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
+
+*{
+    font-family: "Josefin Sans", sans-serif;
+}
+
+.container1{
+    height: 90%;
+    background-color: #99C5B5;
+    padding-top: 4px;
+    /* font-family: "Big Shoulders Inline", sans-serif; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding:0 15px 0 15px;
+}
+
+.container2{
+    padding:0 15px 0 15px;
+    height: 90%;
+    background-color: #99C5B5;
+    padding-top: 4px;
+    /* font-family: "Big Shoulders Inline", sans-serif; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.foto img {
+    width: 200px;
+    height: auto; /* Maintains aspect ratio */
+    border-radius: 10px; /* Optional rounded corners */
+}
