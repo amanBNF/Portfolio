@@ -15,37 +15,32 @@ const Body = () => {
             </div>
         </div>
         <div className="box">
-        <div className="container2">
-            <div className="para">
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio perspiciatis pariatur eius facere velit. Error, explicabo maxime numquam quod exercitationem voluptatum provident. Quod similique qui fuga distinctio perspiciatis veritatis aliquam.</p>
-            </div>
-            <div className="foto">
-                {/* Use the imported image correctly */}
-                <img src={yoda_icon} alt="Yoda Icon" />
-            </div>
-        </div>
-        <div class="container3">
-        <div class="card">
-            <div class="card-inner">
-                <div class="card-front">Dataset Analysis</div>
-                <div class="card-back">Working analysis project with pandas and seaborn library</div>
-            </div>
-        </div>
 
-        <div class="card">
-            <div class="card-inner">
-                <div class="card-front">Calculator</div>
-                <div class="card-back">Guido van Rossum.</div>
+            <div className="title">
+                <h1>PROJECTS</h1>
             </div>
-        </div>
-
-        <div class="card">
-            <div class="card-inner">
-                <div class="card-front">What is HTML?</div>
-                <div class="card-back">HTML stands for HyperText Markup Language.</div>
+            <div class="container3">
+            <div class="card">
+                <div class="card-inner">
+                    <div class="card-front">Dataset Analysis</div>
+                    <div class="card-back">Working analysis project with pandas and seaborn library</div>
+                </div>
             </div>
-        </div>
-        </div>
+        
+            <div class="card">
+                <div class="card-inner">
+                    <div class="card-front">Calculator</div>
+                    <div class="card-back">Guido van Rossum.</div>
+                </div>
+            </div>
+        
+            <div class="card">
+                <div class="card-inner">
+                    <div class="card-front">TRAWELL</div>
+                    <div class="card-back">HTML stands for HyperText Markup Language.</div>
+                </div>
+            </div>
+            </div>
         </div>
         </>
     );
