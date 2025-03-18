@@ -23,17 +23,17 @@ const Body = () => {
             <div class="card">
                 <div class="card-inner">
                     <div class="card-front">Dataset Analysis</div>
-                    <div class="card-back">Working analysis project with pandas and seaborn library</div>
+                    <div class="card-back"><p>Working analysis project with pandas and seaborn library</p></div>
                 </div>
             </div>
-        
+
             <div class="card">
                 <div class="card-inner">
                     <div class="card-front">Calculator</div>
                     <div class="card-back">Guido van Rossum.</div>
                 </div>
             </div>
-        
+
             <div class="card">
                 <div class="card-inner">
                     <div class="card-front">TRAWELL</div>

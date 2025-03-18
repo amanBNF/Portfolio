@@ -66,6 +66,12 @@
     perspective: 1000px;
 }
 
+.card-back p{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .card-inner {
     width: 100%;
     height: 100%;
